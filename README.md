@@ -1,4 +1,4 @@
-# 🐼 Pandas Webinar and Tutorials
+# 🐼 Pandas Webinar link and material
 
 This repository contains **Pandas tutorials and webinar materials** from my Python Data Science learning journey.  
 It includes Jupyter notebooks covering data manipulation, merging, and cleaning using the Pandas library.
