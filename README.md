@@ -9,7 +9,11 @@ It includes Jupyter notebooks covering data manipulation, merging, and cleaning 
 - [Watch Pandas Webinar](https://drive.google.com/file/d/1WlXrv89tZyehJ1dFIqqxxD7-ycmobsgi/view)
 
 ---
+## 📝 Slides  
+Download or view the official webinar slides:  
+📘 [Pandas Webinar Slides (Google Drive)](https://drive.google.com/file/d/1PkO8s6FRpzBffJBEACMoG9yp_FwEb6NG/view?usp=sharing)
 
+---
 ## 📚 Contents
 | No. | Topic | Description |
 |-----|--------|-------------|
